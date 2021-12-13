@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A passionate software developer based in Philadelphia.</h3>
 
-- 🔭 I’m currently working on **Japanese City Pop sampler app for Android**
+- 🔭 I’m currently working on **a drawing app for Android**
 
 - 👯 I’m looking to learn **React Native**
 
