@@ -7,11 +7,11 @@
 
 - 🤝 I’m looking for help with **making an editable Youtube playlist app as well as self-promotion apps for bands**
 
-- 💬 Ask me about **C++, Java, Python, Kotlin, Javascript**
+- 💬 Ask me about **Java and Kotlin**
 
 - 📫 How to reach me **mjmoore87@outlook.com**
 
-- ⚡ Fun fact **Japanese City Pop is my favorite style of music, after jazz**
+- ⚡ Fun fact **I love jazz and classical music the most.**
 
 
 <h3 align="left">Languages and Tools:</h3>
