@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **making an editable Youtube playlist app as well as self-promotion apps for bands**
 
-- 💬 Ask me about **Java and Kotlin**
+- 💬 Ask me about **Kotlin and Java**
 
 - 📫 How to reach me **mjmoore87@outlook.com**
 
