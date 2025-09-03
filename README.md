@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate software developer based in Philadelphia.</h3>
+<h3 align="center">A passionate software developer based in Delaware</h3>
 
 - 🔭 I’m currently working on **a customizable Youtube playlist app**
 
@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **making an editable Youtube playlist app as well as self-promotion apps for bands**
 
-- 💬 Ask me about **Kotlin and Java**
+- 💬 Ask me about **Java**
 
-- 📫 How to reach me **mjmoore87@outlook.com**
+- 📫 How to reach me **mjmoore87@gmail.com**
 
 - ⚡ Fun fact **I love jazz and classical music the most.**
 
