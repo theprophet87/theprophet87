@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a customizable Youtube playlist app**
 
-- 👯 I’m looking to learn **React Native**
+- 👯 I’m looking to learn **ReactJS**
 
 - 🤝 I’m looking for help with **making an editable Youtube playlist app as well as self-promotion apps for bands**
 
